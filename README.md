@@ -4,9 +4,9 @@
 
 Esta é a minha versão do desafio de Color Flipper proposto pela WWCode. Nesse projeto, ao invés de utilizar um array de cores pré determinado no código utilizei a API [Colr.org](https://www.colr.org/api.html) para buscar randomicamente uma cor e alterar a cor de fundo com essa cor e exibir seu nome.
 
-## O desafio original
+Clique [aqui](https://nandapieri.github.io/colorFlipper/) para ver a página.
 
-![WWCode Color Flipper](color-flipper.gif)
+## O desafio original
 
 Neste desafio você aprenderá como criar um trocador de cor de fundo aleatório. Este é um bom
 projeto para você começar a trabalhar com o DOM.
